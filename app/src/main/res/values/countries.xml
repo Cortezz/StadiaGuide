@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_names">
+        <item>Portugal</item>
+        <item>France</item>
+        <item>Spain</item>
+        <item>Italy</item>
+        <item>England</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+        <item>Germany</item>
+    </string-array>
+    <array name="country_icons">
+        <item>@drawable/portugal</item>
+        <item>@drawable/france</item>
+        <item>@drawable/spain</item>
+        <item>@drawable/italy</item>
+        <item>@drawable/england</item>
+        <item>@drawable/brazil</item>
+        <item>@drawable/argentina</item>
+        <item>@drawable/germany</item>
+    </array>
+</resources>
